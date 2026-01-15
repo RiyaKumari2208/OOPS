@@ -1,0 +1,2 @@
+Welcome to Advanced C++ Exception Handling
+This file operation is safe using exceptions.

@@ -1,0 +1,6 @@
+43
+Rani
+345
+User Details:
+Name: amit
+Age: 78
